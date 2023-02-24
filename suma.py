@@ -5,3 +5,7 @@ n1 = 20
 n2 = 25
 n3 = 65
 print(n1+n2+n3)
+print("formula")
+n1 = ("primer numero")
+n2 = ("segundo numero")
+print("n1 +n2")
