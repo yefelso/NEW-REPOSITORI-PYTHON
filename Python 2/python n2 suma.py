@@ -1,5 +1,5 @@
-for i in range(11):
-    print(i)
-n1 = 0
-n2 = 1
-print(n2-n1)
+menos = 0
+numeros = 
+while < 10:
+    print("mas es" + ("o","1,","2","3","4","5","6","7","8","9","10")[0])
+    numero +=1
